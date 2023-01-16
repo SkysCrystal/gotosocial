@@ -284,7 +284,7 @@ github.com/leodido/go-urn
 # github.com/magiconair/properties v1.8.6
 ## explicit; go 1.13
 github.com/magiconair/properties
-# github.com/mattn/go-isatty v0.0.16
+# github.com/mattn/go-isatty v0.0.17
 ## explicit; go 1.15
 github.com/mattn/go-isatty
 # github.com/microcosm-cc/bluemonday v1.0.21
@@ -614,7 +614,7 @@ github.com/ulule/limiter/v3/drivers/middleware/gin
 github.com/ulule/limiter/v3/drivers/store/common
 github.com/ulule/limiter/v3/drivers/store/memory
 github.com/ulule/limiter/v3/internal/bytebuffer
-# github.com/uptrace/bun v1.1.9
+# github.com/uptrace/bun v1.1.10
 ## explicit; go 1.18
 github.com/uptrace/bun
 github.com/uptrace/bun/dialect
@@ -626,7 +626,7 @@ github.com/uptrace/bun/internal/parser
 github.com/uptrace/bun/internal/tagparser
 github.com/uptrace/bun/migrate
 github.com/uptrace/bun/schema
-# github.com/uptrace/bun/dialect/pgdialect v1.1.9
+# github.com/uptrace/bun/dialect/pgdialect v1.1.10
 ## explicit; go 1.18
 github.com/uptrace/bun/dialect/pgdialect
 # github.com/uptrace/bun/dialect/sqlitedialect v1.1.9

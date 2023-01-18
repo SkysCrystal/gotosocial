@@ -45,7 +45,7 @@ require (
 	github.com/superseriousbusiness/oauth2/v4 v4.3.2-SSB
 	github.com/tdewolff/minify/v2 v2.12.4
 	github.com/ulule/limiter/v3 v3.10.0
-	github.com/uptrace/bun v1.1.9
+	github.com/uptrace/bun v1.1.10
 	github.com/uptrace/bun/dialect/pgdialect v1.1.9
 	github.com/uptrace/bun/dialect/sqlitedialect v1.1.9
 	github.com/wagslane/go-password-validator v0.3.0
@@ -121,7 +121,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.1.1 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
-	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect

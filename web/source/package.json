@@ -35,7 +35,7 @@
     "skulk": "^0.0.6",
     "split-filter-n": "^1.1.3",
     "syncpipe": "^1.0.0",
-    "wouter": "^2.8.0-alpha.2"
+    "wouter": "^2.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.19.6",
